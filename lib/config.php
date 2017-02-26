@@ -23,7 +23,7 @@
        * -> https://developer.paypal.com/docs/classic/api/currency_codes/
        */
       'currencyCode' => 'EUR',
-      '1 Mois - Premium' => Array(
+      'Soutien' => Array(
         '20.00',
         '1',
         'z'
